@@ -12,7 +12,7 @@ Files in repository:
                 A. Merges the training and test set to create one data set
                 B. Extracts the measurements on mean and standard dev for each measurement 
                 C. Uses descriptive activiy names to name the activities data set 
-                D. Labesl the data set with descriptive variabl names 
+                D. Labels the data set with descriptive variable names 
                 E. For the data in step 4, it creates a second tidy data set with the average of each variable for each activity and subject
-        3. finaldata.txt isthe exported final data. 
+        3. finaldata.txt is the exported final data. 
                 
