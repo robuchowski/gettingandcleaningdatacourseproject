@@ -1,12 +1,12 @@
-Peer-graded Assignment: Getting and Cleaning Data Course Project
+## Peer-graded Assignment: Getting and Cleaning Data Course Project
 
 This repository is my, Ryan Obuchowski, submission for the week 4 of Getting and Cleaning Data course project. In this submission, there are instructions on how to run analysis on the HUman Activity recognition dataset. 
 
-Dataset:
+## Dataset:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Files in repository:
+## Files in repository:
         1. CodeBook.md - This describes the variables, data, and the work that i performed on the data
         2. run_analysis - this is the R script where I performed by data preparation followed by the five steps laid out in the assignment:
                 A. Merges the training and test set to create one data set
